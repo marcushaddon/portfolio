@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://marcushaddon.github.io/portfolio",
+  "homepage": "http://marcushaddon.github.io/portfolio/build",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
