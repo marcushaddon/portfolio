@@ -1,0 +1,56 @@
+@import 'vars';
+@import 'palette';
+
+
+.container {
+    padding: 2em 10vw 2em 10vw;
+}
+
+.flex-container {
+    padding: 2em 3vw 2em 3vw;
+}
+
+@media all and (max-width: 600px) {
+    .container {
+        padding: 2em 12px 2em 12px;
+    }
+}
+
+
+
+.section {
+    margin: 0px 0px 4em 0px;
+}
+
+.subsection {
+    margin: 2em 0px 2em 0px;
+}
+
+.valign {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media all and (max-width: $sm) {
+    .center-on-small {
+        display: flex;
+        align-items: center;
+        padding: 1em;
+    }
+}
+
+.spaced-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 6px;
+}
+
+@media all and (max-width: $sm) {
+    .spaced-row {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
