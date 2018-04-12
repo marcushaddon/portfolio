@@ -7,7 +7,22 @@ class ProjectTile extends Component {
             <Link to={'/projects/' + project.id}>
                 <div className='project-tile'>
                     <h3>{project.name}</h3>
-                    <img src={require('./img/' + project.img)} />
+                    <div class='browser-wrapper'>
+    
+                        <div class='lil-toolbar'>
+                            
+                            <div class='close button'></div>
+                            <div class='minimize button'></div>
+                            <div class='maximize button'></div>
+                            
+                        </div>
+                        <div class='browser-window'>
+                        
+                            <img src={require('./img/' + project.img)} />
+                        
+                        </div>
+                    
+                    </div>
                 </div>
             </Link>
         );
