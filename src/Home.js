@@ -17,7 +17,7 @@ class Home extends Component {
 				<div className='valign center-on-small'>
 					<h1>Marcus Haddon</h1>
 					<h3>Software Developer.</h3>
-					<div class='icon-row'>
+					<div className='icon-row'>
 					<a href='https://github.com/marcushaddon'>
 						<FontAwesome name='github' size='2x' />
 					</a>
@@ -44,13 +44,11 @@ class Home extends Component {
 		
 					<div className='skills-list'>
 						<div className='skill subsection'>
-							<p>
 								{
 									Model.aboutMe.map(
 										para => <p>{para}</p>
 									)
 								}
-							</p>
 						</div>
 					</div>
 		
