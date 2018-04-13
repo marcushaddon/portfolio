@@ -109,7 +109,7 @@ const Model = {
                 "Microsoft SQL Server",
                 "MongoDb",
                 "Typescript",
-                "Angular",
+                "Angular 5",
                 "HTML",
                 "Material Design"
             ],
@@ -152,7 +152,7 @@ const Model = {
             id: "autoshipcloud",
             name: "Autoship Cloud",
             link: "https://wordpress.org/plugins/autoship-cloud/",
-            img: "bytely.png",
+            img: "autoship-cloud.png",
             skills: [
                 "Full Stack Development",
                 "eCommerce Development",
@@ -163,6 +163,7 @@ const Model = {
                 "PHP",
                 "MySQL",
                 "Wordpress",
+                "Angular 5",
                 "HTML",
                 "CSS"
             ],
@@ -190,7 +191,7 @@ const Model = {
             id: "asciiart",
             name: "Video to ASCII Art",
             link: "https://github.com/marcushaddon/quick-address",
-            img: "bytely.png",
+            img: "running.gif",
             skills: [
                 "Video/Image Processing",
                 "Batch Processing",
