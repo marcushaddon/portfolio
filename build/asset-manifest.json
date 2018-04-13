@@ -1,13 +1,16 @@
 {
-  "main.css": "static/css/main.c4c9f05c.css",
-  "main.css.map": "static/css/main.c4c9f05c.css.map",
-  "main.js": "static/js/main.fd5fd0c3.js",
-  "main.js.map": "static/js/main.fd5fd0c3.js.map",
+  "main.css": "static/css/main.770ffdfc.css",
+  "main.css.map": "static/css/main.770ffdfc.css.map",
+  "main.js": "static/js/main.03cb7744.js",
+  "main.js.map": "static/js/main.03cb7744.js.map",
+  "static/media/ascii.gif": "static/media/ascii.ce5e87a5.gif",
+  "static/media/autoship-cloud.png": "static/media/autoship-cloud.6a04f710.png",
   "static/media/bytely.png": "static/media/bytely.7bff8203.png",
   "static/media/bytelyme1.png": "static/media/bytelyme1.b0c6bd40.png",
   "static/media/bytelyme2.png": "static/media/bytelyme2.47925046.png",
   "static/media/crate.png": "static/media/crate.ed0c2fce.png",
   "static/media/mycrate1.png": "static/media/mycrate1.6336dbf9.png",
   "static/media/qpilot1.png": "static/media/qpilot1.44d8850d.png",
-  "static/media/quickaddress1.png": "static/media/quickaddress1.716c2b26.png"
+  "static/media/quickaddress1.png": "static/media/quickaddress1.5c7ccb01.png",
+  "static/media/running.gif": "static/media/running.206dfb10.gif"
 }
