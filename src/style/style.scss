@@ -78,6 +78,11 @@ a {
         margin-bottom: 8px;
     }
 
+    img {
+        width: 100%;
+        height: 200px;
+    }
+
 
 }
 
@@ -203,7 +208,10 @@ a {
     }
 }
 
-
+.confidence-wrapper {
+    width: 100%;
+    padding: 0px 16px 0px 0px;
+}
 
 .confidence {
     height: 16px;

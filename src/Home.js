@@ -83,7 +83,12 @@ class Home extends Component {
 											<div className='name'>
 												<strong>{technology.name}</strong>
 											</div>
-											<div className='confidence' style={{width: technology.confidence +'%'}}></div>
+											<div className='confidence-wrapper'>
+												<div 
+												className='confidence' 
+												style={{width: technology.confidence +'%'}}
+												></div>
+											</div>
 										</div>
 									)
 								)
@@ -109,13 +114,13 @@ class Home extends Component {
 					<h2>Portfolio</h2>
 					<div className='spaced-row center-on-small subsection'>
 						{
-							projects.slice(0,2).map(
+							projects.map(
 								project => <ProjectTile project={project} />
 							)
 						}
 						
 					</div>
-					<Link to='/projects'>more...</Link>
+					{/* <Link to='/projects'>more...</Link> */}
 				</div>
 		
 			</div>
