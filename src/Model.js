@@ -190,7 +190,7 @@ const Model = {
         {
             id: "asciiart",
             name: "Video to ASCII Art",
-            link: "https://github.com/marcushaddon/quick-address",
+            link: "https://www.youtube.com/watch?v=fSCmVCcgmes",
             img: "running.gif",
             skills: [
                 "Video/Image Processing",

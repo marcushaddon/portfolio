@@ -59,10 +59,15 @@ a {
 .skills-header{
     width: 50%;
     justify-content: left;
+    
+    h2 {
+        // wot in tarnation
+        margin-left: 0.7em;
+    }
 }
 
 .skills-list {
-    padding: 0px 8px 0px 8px;
+    padding: 0em 2em 0em 2em;
     width: 50%;
     justify-content: right;
 }
