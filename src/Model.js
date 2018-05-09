@@ -206,6 +206,27 @@ const Model = {
             ],
             gist: ["A command line tool I built for a filmmaker friend. It takes as input a digital video file, and converts it into an ASCII art representation. It supports 'key frame' like editing through .csv files. It is being used to create a music video."]
         },
+
+        // Talking to trees
+        {
+            id: "trees",
+            name: "Talking To Trees",
+            link: "",
+            img: "trees.gif",
+            skills: [
+                "Natural Language Processing",
+                "REST API"
+            ],
+            technologies: [
+                "Python",
+                "TextBlob",
+                "Javascript",
+                "webKitSpeechRecognition",
+                "Open Sound Control Protocol"
+            ],
+            gist: ["An app that converts speech to text, tags the text using Sentiment Analysis, and sends notifications via OSC protocol to another application controlling output of projection mapping onto trees.",
+            "Part of an outdoor art installation in which visitors walked through a grove of trees where hidden microphones picked up their speech, causing the trees to 'react' to their speech in terms of volume, pitch, and sentiment. A more detailed demonstration is forthcoming."]
+        },
     ]
 };
 
