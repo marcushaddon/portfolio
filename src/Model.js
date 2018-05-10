@@ -1,7 +1,7 @@
 const Model = {
     aboutMe: [
         "I originally come from a creative background, but have always excelled at the technical/analytical side of creative tasks. This has been an immense asset in my career as a programmer, as software development and programming are at once technical, creative, and social activities.",
-        "I excel at all three of those areas, which is essential for any member of a small, interdisciplinary team building a new product."
+        "I excel at all three of these areas, which is essential for any member of a small, interdisciplinary team building a new product."
     ],
 
     skills: [
