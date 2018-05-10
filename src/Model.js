@@ -51,8 +51,8 @@ const Model = {
     ],
 
     frameworks: [
-        'Angular',
-        'AngularJs',
+        'Angular 5',
+        'Angular 1.x',
         'React',
         'Express',
         'Mongoose',
