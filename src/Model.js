@@ -170,6 +170,25 @@ const Model = {
             gist: ["While QPilot can integrate with any eCommerce platform, Autoship Cloud is the officially supported integration of the service with the eCommerce platform WooCommerce. Autoship Cloud is a Wordpress plugin that extends WooCommerce and allows a WooCommerce store to talk with QPilot."]
         },
 
+        // BBATX Video Journal
+        {
+            id: "bbatxvideojournal",
+            name: "BBATX Video Journal",
+            link: "",
+            img: "bbatx.png",
+            skills: [
+                "Front-end Development"
+            ],
+            technologies: [
+                "Typescript",
+                "Angular 5",
+                "HTML",
+                "CSS"
+            ],
+            gist: ["Made for the non-profit Boss Babes ATX (BBATX), this video journal allows guests at BBATX events to leave video responses to prompts specified by the organization.",
+            "The app runs in the browser on an iPad set up at the event. Users select from one of several prompts, at which point the app opens the selfie camera on the iPad. Once finished with their video response, the user is prompted to provide their name and email address. The organizers of the event can later view all the responses."]
+        },
+
         // Quick Address
         {
             id: "quickaddress",
